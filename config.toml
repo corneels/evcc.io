@@ -10,8 +10,8 @@ defaultContentLanguageInSubdir = false
     languageName = "DE"
     title = "evcc - Sonne tanken ☀️🚘 - PV-Überschussladen für steuerbare Wallboxen"
     [languages.de.params]
-      docsUrl = "https://docs.evcc.io/docs/Home/"
-      blogUrl = "https://docs.evcc.io/blog/"
+      docsUrl = "https://docs.evcc.io/docs/Home"
+      blogUrl = "https://docs.evcc.io/blog"
   [languages.en]
     weight = 2
     languageName = "EN"
